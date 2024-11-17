@@ -20,7 +20,7 @@
 - Jupyter Notebook - version 6.5.4
 
 ## Conclusions
-- There is a major class imbalance in the dataset.
+- There is a major class imbalance among the various classes of images in the dataset.
 - Handling the class imbalance has resulted in signficant improvement in the accuracy of the model.
   
 ## Acknowledgements
