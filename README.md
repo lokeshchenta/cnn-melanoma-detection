@@ -4,6 +4,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
@@ -18,5 +19,9 @@
 - keras - version 3.6.0
 - Jupyter Notebook - version 6.5.4
 
+## Conclusions
+- There is a major class imbalance in the dataset.
+- Handling the class imbalance has resulted in signficant improvement in the accuracy of the model.
+  
 ## Acknowledgements
 This project is done as part of the IIIT Bangalore Executive PG Programme in Machine Learning & AI.
